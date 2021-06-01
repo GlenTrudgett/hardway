@@ -1,0 +1,5 @@
+These are questions I have that to follow up with, for better understanding.
+
+* Why use f-string over .format()?
+
+* 
